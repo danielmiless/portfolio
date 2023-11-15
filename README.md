@@ -1,3 +1,9 @@
+<!--- Notes for future improvement:
+  1. Crop headshot to be circular and smaller
+  2. Reformat education section
+  3. Replace all template information with my own
+  --->
+
 # Physicist & Data Scientist
 
 #### Technical Skills: Python, Java, SQL, R, Excel, AI/ML
